@@ -13,7 +13,7 @@ public class Cita {
         this.doctor = doctor;
     }
 
-    // Getters y Setters
+    
     public int getId() {
         return id;
     }
